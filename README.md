@@ -342,7 +342,7 @@ Distribution functions enable customer segmentation. NTILE(4) divides customers 
 
 ## 📚 References
 
-1.Oracle Corporation. (2024). Oracle Database SQL Language Reference. Retrieved from https://docs.oracle.com/en/database/oracle/oracle-database/
+1.SQL Shell.
 
 2.PostgreSQL Global Development Group. (2024). PostgreSQL Documentation: Window Functions. Retrieved from https://www.postgresql.org/docs/current/functions-window.html
 
