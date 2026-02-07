@@ -72,7 +72,8 @@ Business Value: Detect underlying patterns beyond daily fluctuations
 ## 🗄️ Database Schema
 
 ### Entity Relationship Diagram
-![ER Diagram](schema/ER_Diagram.png)
+<img width="1080" height="732" alt="TogethaDrawing" src="https://github.com/user-attachments/assets/7adae825-f24c-4b46-8c6c-593e782f10b1" />
+
 
 ### Tables
 1. **CUSTOMER** - Customer profiles and regional information
